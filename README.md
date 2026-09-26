@@ -1,5 +1,5 @@
 # DJ-Paper-Statistical-Tests
-Scripts for histograms/statistical tests, Monte Carlo analysis, and supporting utilities used in manuscript "Geologic methane emissions in the Denver-Julesburg Basin are lower than previously estimated"
+Scripts for histograms/statistical tests, Monte Carlo analysis, and supporting utilities used in manuscript "Minimal geologic methane emissions in the Denver-Julesburg Basin"
 
 Data used by these scripts is stored with other data for this manuscript at https://doi.org/10.60593/ur.d.33620167 .
 
